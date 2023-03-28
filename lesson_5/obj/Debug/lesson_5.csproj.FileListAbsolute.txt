@@ -1,0 +1,11 @@
+C:\Users\NSCSSTUDENT.HSLAB-TEACHER\source\repos\c#\lesson_5\lesson_5\bin\Debug\lesson_5.exe.config
+C:\Users\NSCSSTUDENT.HSLAB-TEACHER\source\repos\c#\lesson_5\lesson_5\bin\Debug\lesson_5.exe
+C:\Users\NSCSSTUDENT.HSLAB-TEACHER\source\repos\c#\lesson_5\lesson_5\bin\Debug\lesson_5.pdb
+C:\Users\NSCSSTUDENT.HSLAB-TEACHER\source\repos\c#\lesson_5\lesson_5\obj\Debug\lesson_5.csproj.AssemblyReference.cache
+C:\Users\NSCSSTUDENT.HSLAB-TEACHER\source\repos\c#\lesson_5\lesson_5\obj\Debug\lesson_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\NSCSSTUDENT.HSLAB-TEACHER\source\repos\c#\lesson_5\lesson_5\obj\Debug\lesson_5.Form1.resources
+C:\Users\NSCSSTUDENT.HSLAB-TEACHER\source\repos\c#\lesson_5\lesson_5\obj\Debug\lesson_5.Properties.Resources.resources
+C:\Users\NSCSSTUDENT.HSLAB-TEACHER\source\repos\c#\lesson_5\lesson_5\obj\Debug\lesson_5.csproj.GenerateResource.cache
+C:\Users\NSCSSTUDENT.HSLAB-TEACHER\source\repos\c#\lesson_5\lesson_5\obj\Debug\lesson_5.csproj.CoreCompileInputs.cache
+C:\Users\NSCSSTUDENT.HSLAB-TEACHER\source\repos\c#\lesson_5\lesson_5\obj\Debug\lesson_5.exe
+C:\Users\NSCSSTUDENT.HSLAB-TEACHER\source\repos\c#\lesson_5\lesson_5\obj\Debug\lesson_5.pdb
